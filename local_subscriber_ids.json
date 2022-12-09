@@ -1,4 +1,4 @@
-{"count": 20221204,"results": [
+{"count": 20221209,"results": [
 {"id":"302911","callsign":"RADIO1_ID","fname":"RadioID","name":"RadioID","city":"Vienne","state":"86","country":"France","remarks":"FRDMR"},
 {"id":"9005404","callsign":"FR_DMR1","fname":"Bridge","name":"Bridge","city":"Vienne","state":"86","country":"France","remarks":"FRDMR"},
 {"id":"9008888","callsign":"RFR_NODE1","fname":"Node","name":"Node","city":"Vienne","state":"86","country":"France","remarks":"FRDMR"},
@@ -435,6 +435,7 @@
 {"id":"1404347","callsign":"FRS4347","fname":"Florent","name":"Florent","city":"Alpes-Maritimes","state":"6","country":"France","remarks":"ALLTG"},
 {"id":"1012006","callsign":"F11FGU","fname":"Michel","name":"Michel","city":"Hauts-de-Seine","state":"92","country":"France","remarks":"ALLTG"},
 {"id":"472003","callsign":"RL1MTL","fname":"Relais, Bad Lausick","name":"Relais, Bad Lausick","city":"Bad Lausick","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
+{"id":"959901","callsign":"CB0FBG","fname":"Crosslink FRN-Mittelsachsen","name":"Crosslink FRN-Mittelsachsen","city":"Mittelsachsen","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"1610790","callsign":"U96","fname":"Dennis, Bad Lausick","name":"Dennis, Bad Lausick","city":"Bad Lausick","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"2711571","callsign":"WOLF81","fname":"Wolfgang, Heiligenhafen","name":"Wolfgang, Heiligenhafen","city":"Heiligenhafen","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"4023700","callsign":"RL1HH","fname":"Relais, Hamburg","name":"Relais, Hamburg","city":"Hamburg","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
@@ -445,6 +446,7 @@
 {"id":"9047800","callsign":"ECHO1","fname":"Norbert, Fehmarn","name":"Norbert, Fehmarn","city":"Fehmarn","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"9433000","callsign":"REF091","fname":"REF091","name":"REF091","city":"Germany","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"9450500","callsign":"BAKE262","fname":"Info-Bake-TG262","name":"Info-Bake-TG262","city":"Germany","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
+{"id":"9618010","callsign":"DG3","fname":"Daniel, Freiberg-Langenau","name":"Daniel, Freiberg-Langenau","city":"Freiberg-Langenau","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"9999999","callsign":"TEST-ID","fname":"Test-ID","name":"262","city":"WorldWide","state":"262","country":"Germany","remarks":"FREEDMR.DIGITAL"},
 {"id":"4242420","callsign":"BALISE42","fname":"TG42","name":"TG42","city":"Loire","state":"42","country":"France","remarks":"42EME"},
 {"id":"9942000","callsign":"14CEM42","fname":"Emmanuel","name":"Emmanuel","city":"Loire","state":"42","country":"France","remarks":"42EME"},
@@ -5369,6 +5371,7 @@
 {"id":"1147401","callsign":"FRS7401","fname":"Nicolas","name":"Nicolas","city":"Haute-Savoie","state":"74","country":"France","remarks":"FRS"},
 {"id":"1147407","callsign":"FRS7407","fname":"Francois","name":"Francois","city":"Ardeche","state":"07","country":"France","remarks":"FRS"},
 {"id":"1147440","callsign":"FRS7440","fname":"Marco","name":"Marco","city":"Landes","state":"40","country":"France","remarks":"FRS"},
+{"id":"9967440","callsign":"FRS7440","fname":"Marco","name":"Marco","city":"Landes","state":"40","country":"France","remarks":"FRS"},
 {"id":"1147474","callsign":"FRS7474","fname":"Kevin","name":"Kevin","city":"Alpes-Maritimes","state":"06","country":"France","remarks":"FRS"},
 {"id":"1147517","callsign":"FRS7517","fname":"Stephane","name":"Stephane","city":"Charente-Maritime","state":"17","country":"France","remarks":"FRS"},
 {"id":"1147519","callsign":"FRS7519","fname":"Fabrice","name":"Fabrice","city":"Charente-Maritime","state":"17","country":"France","remarks":"FRS"},
@@ -5426,6 +5429,7 @@
 {"id":"1149875","callsign":"FRS9875","fname":"Francois","name":"Francois","city":"Haut-Rhin","state":"68","country":"France","remarks":"FRS"},
 {"id":"1149876","callsign":"FRS9876","fname":"Sebastien","name":"Sebastien","city":"Haute-Garonne","state":"31","country":"France","remarks":"FRS"},
 {"id":"1149900","callsign":"FRS9900","fname":"Jerome","name":"Jerome","city":"Bouches-du-Rhone","state":"13","country":"France","remarks":"FRS"},
-{"id":"1149999","callsign":"FRS9999","fname":"Bruno","name":"Bruno","city":"Seine-et-Marne","state":"77","country":"France","remarks":"FRS"}
+{"id":"1149999","callsign":"FRS9999","fname":"Bruno","name":"Bruno","city":"Seine-et-Marne","state":"77","country":"France","remarks":"FRS"},
+{"id":"9952600","callsign":"F99FMA","fname":"Franck","name":"Franck","city":"Sarthe","state":"72","country":"France","remarks":"TG208"}
 ]
 }
